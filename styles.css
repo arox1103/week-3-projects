@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+  }
+  
+  #header {
+    background-color: #1778f2;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    margin-bottom: 10px;
+    /* Placeholder image */
+    background-image: url('https://via.placeholder.com/150');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #cover-photo {
+    width: 100%;
+    max-height: 200px;
+    /* Placeholder image */
+    background-image: url('https://via.placeholder.com/1200x200');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+  }
+  
+  #user-info {
+    font-size: 18px;
+  }
+  
+  #user-info h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  #user-info p {
+    margin: 5px 0;
+  }
+  
